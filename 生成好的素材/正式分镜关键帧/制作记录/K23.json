@@ -1,0 +1,13 @@
+{
+  "id": "K23",
+  "time": "51-58",
+  "name": "擦身同框尾帧",
+  "batch": "03_对视擦身",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K23 slow-motion pass END, edit previous keyframe. Keep mounted Odin and EIGHT-legged horse size, exact bridge and side camera. Move the SAME black Maybach forward screen RIGHT along near lane by roughly one car length. Full car now lower-right with front close to right margin and rear approximately under horse saddle. Keep vehicle exactly previous size and proportion, ground baseline, wheels touching road, safe lateral separation from horse. Car has passed horse head and is moving beyond rider; rider turns helmet DOWN and toward his LEFT/rear to follow driver through side window, neck naturally rotates, no body dismount. Chu in front left seat looks briefly up-left/back at rider as passing ends, then will look forward next shot. Preserve spear grip and cape, do not turn whole horse yet. Frozen slow-motion rain and small tire spray. Only ONE car at its new position, reconstruct empty road at old position.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K22_擦身同框起帧_v2.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-0882ae8a-5fe8-4250-8354-a7ed5c995a5c.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K23_擦身同框尾帧_v1.png"
+}

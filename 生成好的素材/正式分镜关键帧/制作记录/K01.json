@@ -1,0 +1,14 @@
+{
+  "id": "K01",
+  "time": "00-04",
+  "name": "暴雨中孤车驶来",
+  "batch": "01_开场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K01 0-4s opening wide shot. Image 1 bridge style; image 2 car identity. Camera on west A-city approach looking BACK west along wet empty elevated approach road, bridge entrance immediately behind camera, avoid showing B tower ahead. One black Maybach approaches from distant rain, front three-quarter visible small at middle distance occupying about 18 percent frame width, white headlights reflecting in road. Empty road dominates foreground, dense cool storm, city in soft haze, film opening suspense. Driver not recognizable yet, no Odin, no supernatural effects. Car stays aligned along eastbound lanes.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S01_A城桥入口_场景母图_v1.png",
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-bf53d8f1-636e-42a7-939c-6f076a5891cd.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K01_暴雨中孤车驶来_v1.png"
+}

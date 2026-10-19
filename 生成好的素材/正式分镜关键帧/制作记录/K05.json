@@ -1,0 +1,14 @@
+{
+  "id": "K05",
+  "time": "10-15",
+  "name": "入桥摇摄起帧",
+  "batch": "01_开场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K05 10-15s bridge entrance shot START. Reference 1 is LOCKED camera/environment, retain right foreground guardrail and the bridge entrance and B tower positions. Reference2 vehicle. Insert one full black Maybach seen from REAR RIGHT three-quarter, moving away from camera into bridge in right lane. Rear bumper stays inside frame at lower-left/center, car nose has JUST passed first steel portal while back half still before it. Full long car visible, correct tail lamps and cream interior, modest tire spray, not stationary posing. Match perspective and lamp reflections. Keep bridge 3 lanes. Do not reverse car direction; do not show car front approaching camera. No Odin or horse yet. Camera fixed at right roadside.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S01_A城桥入口_场景母图_v1.png",
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-5cf89e94-5bf2-4692-9f42-f6ec6fa9c638.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K05_入桥摇摄起帧_v1.png"
+}

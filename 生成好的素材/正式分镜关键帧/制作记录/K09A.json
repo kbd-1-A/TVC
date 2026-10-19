@@ -1,0 +1,15 @@
+{
+  "id": "K09A",
+  "name": "楚子航察觉抬眼",
+  "version": 2,
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09A_楚子航察觉抬眼_v1.png"
+  ],
+  "prompt": "Precise edit of attached cinematic frame, keep same face identity, white shirt, seatbelt, rainy closed glass, camera, cabin, bridge and lighting. Correct ONLY head and eyes: rotate the young man's face BACK toward windshield at SCREEN RIGHT until it is almost a right-facing profile, nose clearly points screen right. Head aligned nearly with driving torso, no sideways/backward look toward camera. Chin lifted only 5 degrees and eyes glance UP and FORWARD toward upper right of image, looking at something above road ahead. Expression slight alertness, lips closed. This is a subtle first discovery, not a full face-to-face encounter. Same 16:9 photoreal frame, no added objects.",
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-a526af9d-e64e-4889-b2ef-dc449ff4954b.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09A_楚子航察觉抬眼_v2.png",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待剪辑连续性复核",
+  "mode": "内置imagegen",
+  "superseded": "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09A_楚子航察觉抬眼_v1.png"
+}

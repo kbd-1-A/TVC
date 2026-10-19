@@ -1,0 +1,13 @@
+{
+  "id": "K06",
+  "time": "10-15",
+  "name": "入桥停镜尾帧",
+  "batch": "01_开场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K06 continuation END of K05. Image1 previous starting keyframe is exact edit target and continuity authority. Keep camera FIXED, bridge, skyline, rails, lamps, rain and perspective unchanged. Move the SAME ONE car away along the road to three truss bays deeper inside bridge, now considerably smaller about 12 percent frame width. Car remains rear three-quarter view and stays on its existing forward lane trajectory, all of car inside frame, two small red tail lamps reflected on wet road. Remove car from old large foreground position and reconstruct wet pavement; never show two cars. This ends a fixed-roadside pan that has now stopped, not a tracking camera shot.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K05_入桥摇摄起帧_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-2dfe021e-dc3b-44b0-aae4-500ff204fae7.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K06_入桥停镜尾帧_v1.png"
+}

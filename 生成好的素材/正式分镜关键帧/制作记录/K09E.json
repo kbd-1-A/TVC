@@ -1,0 +1,15 @@
+{
+  "id": "K09E",
+  "name": "踏空转举枪过渡",
+  "version": 1,
+  "refs": [
+    "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-70cac22d-d68a-4410-ab39-460242bf443c.png"
+  ],
+  "prompt": "Precise local pose correction. Preserve image camera, rider identity, horse pose, roof corner, skyline, rain and lighting. LOWER the spear-holding RIGHT arm and spear substantially: right elbow now beside ribs, right hand in front of upper chest near clavicle BELOW chin height. ONE spear lies horizontally at upper chest height, shaft crosses below helmet face and above horse neck, spearhead points RIGHT. NO arm or spear above shoulders or helmet. This is the midway lifting motion from waist to shoulder, BEFORE overhead windup. Left hand remains holding reins. Keep spear straight, one weapon only. All other pixels/composition as unchanged as possible, 16:9.",
+  "initial_prompt": "Create ONE 16:9 photoreal cinematic INTERMEDIATE animation keyframe between reference1 airborne calm walking and reference2 full spear windup. Same Odin, eight-legged black armored horse, storm city, rightward direction and left-streaming cloak. Camera transitions toward ref2: low side three-quarter, roof now barely a corner at lower left, skyline low. Odin RIGHT hand has lifted the ONE spear from waist to just above SHOULDER LEVEL, elbow bent and upper arm halfway raised, spear nearly horizontal tip toward RIGHT. Spear is not yet above helmet and not fully drawn back. Left hand holds reins. Horse neck lifts slightly and front paired limbs begin folding, halfway between level walking and raised-foreleg ref2 pose, hind legs trail, eight anatomically rooted legs. Whole horse unsupported in sky, no ground/platform. Preserve exact black gunmetal armor, tall twin horns, silver hair, amber eye. NO extra spear or limbs, NO throw yet. This middle pose must read as initiating the same overarm throwing arm from ref2, not holding spear in opposite hand. Dramatic restrained realism, no text.",
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-44935d22-3589-47ed-9945-fbedd7d9aede.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09E_踏空转举枪过渡_v1.png",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待剪辑连续性复核",
+  "mode": "内置imagegen"
+}

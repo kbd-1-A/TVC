@@ -1,0 +1,15 @@
+{
+  "id": "K32",
+  "time": "76-80",
+  "name": "轮毂向后追逐",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low car-mounted camera near LEFT FRONT wheel looking BACK along black Maybach side toward pursuing Odin far behind. Large spinning silver multi-hole wheel dominates lower RIGHT foreground, wet black side body extends into image, road spray streaming backward. In left/center background one armored eight-legged horse with rider chases along same road toward camera, no approaching opposing traffic. Match reference wheel design, keep pursuit sharp enough to recognize, strong near-far depth.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_轮毂细节_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-aebd4d5a-1938-489a-97ab-bdea0f5ebe15.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K32_轮毂向后追逐_v1.png"
+}

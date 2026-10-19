@@ -1,0 +1,14 @@
+{
+  "id": "K26",
+  "time": "58-60",
+  "name": "楚子航视线回正",
+  "batch": "03_对视擦身",
+  "status": "已生成，待本批复核",
+  "mode": "内置imagegen",
+  "prompt": "Use case: ads-marketing. Generate ONE cinematic photoreal storyboard keyframe K26 at 58-60 seconds, landscape 16:9. Input image is the preceding K24 shot and is the strict continuity reference for Chu Zihang identity, clothing, car cabin, camera position, rain, and lighting. This is the next moment: Chu has finished looking up toward Odin and returns his head and eyes FORWARD toward the road through the windshield. Preserve exactly the same young East Asian man, black hair, white collared shirt, beige seatbelt, cream leather Maybach cabin, black window frame and side mirror. Camera remains outside driver side window looking inward, tight head and shoulders through rain-speckled glass. His face now reads as a natural three-quarter/profile aimed toward screen RIGHT, toward the vehicle's front and windshield, eyes level and focused ahead, chin lowered to normal driving position, calm resolute closed lips. No looking toward camera, no upward glance, no backward glance. His torso stays in driving position with white sleeves and hands extended toward steering wheel out of the lower-right crop. Keep same rain-covered closed window but make face clearly readable. The armored horse reflection has passed out of the glass; only soft bridge lights and steel structure reflections remain. Same cold blue rainy night on steel truss bridge, warm amber road lamps and subtle warm cabin highlights, wet black paint and chrome. Strong photographic realism, restrained depth of field. No Odin or horse visible in this tight shot, no added passenger, no extra face in reflections, no text, no watermark, no panels. This is a continuity frame of the existing sequence, not a new character design.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K24_楚子航向上对视_v1.png"
+  ],
+  "source": "C:/Users/renxiaoxu/.codex/generated_images/01a124a7-ff81-7241-b335-d846c918462c/exec-6d3a394c-12b5-4260-a30e-89bc0dc69f85.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+}

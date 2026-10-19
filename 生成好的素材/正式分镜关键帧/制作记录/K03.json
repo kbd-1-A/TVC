@@ -1,0 +1,13 @@
+{
+  "id": "K03",
+  "time": "07-08.5",
+  "name": "车灯穿雨",
+  "batch": "01_开场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K03 7-8.5s. Image1 exact classic car headlight/grille. Tight low front-left corner tracking close-up of the moving black Maybach, paired circular projector lamps inside original oval housing turned on, white beams visibly cutting diagonal rain, wet chrome and black body, tiny water beads and lens texture sharp. Crop grille at screen right and front fender at screen left. Dark blue rainy street bokeh behind, warm streetlamp reflections, realistic controlled highlights, not overexposed. No driver face, no extra vehicle, no modern LED strip.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_车头细节_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-d152714e-6b68-4b53-b869-2f963713327f.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K03_车灯穿雨_v1.png"
+}

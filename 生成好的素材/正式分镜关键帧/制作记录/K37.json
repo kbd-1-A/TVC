@@ -1,0 +1,14 @@
+{
+  "id": "K37",
+  "time": "86-88",
+  "name": "双手修正方向",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Tight interior close-up of original cream/walnut steering wheel from reference. Two realistic hands of young male driver with white shirt cuffs hold wheel near 9 and 3 o'clock, make small clockwise countersteering correction after left avoidance. Wheel only modestly turned, no crossed arms, no extra fingers. Through windshield bridge lane markings beginning to align, rain beads, amber instrument glow, dashboard unchanged. No driver face required.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I01_方向盘与仪表_母图_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-85eb96e6-bea3-44e5-b68f-f4ec33691ad2.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K37_双手修正方向_v1.png"
+}

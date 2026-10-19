@@ -1,0 +1,15 @@
+{
+  "id": "K09C",
+  "name": "踏空起帧",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09B_楼顶骑乘虚影_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png"
+  ],
+  "prompt": "ONE cinematic photoreal 16:9 keyframe, continuation of attached rooftop reveal. Same Odin, horse, wet concrete rooftop and stormy blue city with amber windows. Cut closer to external SIDE three-quarter low-angle camera near roof height, no car window framing. Horse faces SCREEN RIGHT. Show unmistakable FIRST STEP OFF ROOFTOP: roof fills lower LEFT, roof EDGE ends near frame center under horse belly; hind hooves still bear weight on wet roof at left, leading front hoof extends forward into EMPTY AIR at right at same height as roof. Front limbs start slow walking, not a leap or rear. Body stays LEVEL, rider calm upright, single spear low across thigh pointed right, NO throwing pose yet. Eight anatomically rooted legs: four front and four rear, staggered with natural overlap. Subtle rain-mist around legs, dark edges not neon. A tiny localized displacement of rain below extended hoof implies invisible support, NO visible platform, stairs, clouds beneath feet or wings. Large open air gap under front legs, skyline far below, roof contact of hind legs CLEAR. Keep roof architecture and dark blue weather from image1, exact armor from image2. Entire rider and hooves visible, no cropped horns, no text, no collage.",
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-f464ea8b-ece2-4744-9abb-68030e1dda0e.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09C_踏空起帧_v1.png",
+  "time": "30-32（起帧）",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待剪辑连续性复核",
+  "mode": "内置imagegen"
+}

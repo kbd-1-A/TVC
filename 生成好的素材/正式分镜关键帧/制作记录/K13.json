@@ -1,0 +1,24 @@
+{
+  "id": "K13",
+  "time": "31-36",
+  "name": "骑乘幽影显现",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. Precise continuity correction of image1. The rider MUST NOT HOLD A SPEAR. Delete the entire upright spear from his right hand. Lower his empty right gauntlet to rest naturally beside saddle at image x=450,y=475, empty fingers visible. Instead place exactly ONE long spear planted BLADE-FIRST in road at x=300,y=785, leaning diagonally upward to x=390,y=240; large main spear blade at BOTTOM partly embedded, straight black shaft runs above it and simple small butt at TOP. Blade design per image2 but inverted vertically because point penetrates road. There is a CLEAR GAP between planted spear shaft and empty gauntlet, no contact. Rider and horse remain in same position but their lower bodies become more translucent with mist and bridge lamps faintly visible through lower legs, an apparition mid-materialization. Upper silhouette stays identifiable. Keep right lane open, same bridge, camera and rain, no second weapon.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K13_骑乘幽影显现_旧版_v1.png",
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-c05dcb67-6911-4d86-9908-1e767a99251b.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v2.png",
+  "history": [
+    {
+      "path": "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K13_骑乘幽影显现_旧版_v1.png",
+      "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K13 31-36s apparition START. Image1 bridge longitudinal environment. Image2 mounted Odin front identity only, REMOVE his held spear. Image3 spear identity. Camera from approaching driver's road height outside car, 30 metres west of apparition, looking EAST. Full giant mounted Odin begins coalescing in rain mist on LEFT/MIDDLE lane boundary, slightly screen left, right lane fully open. Exactly one dark SEMITRANSPARENT rider and one eight-legged horse, lamps faintly visible through their lower bodies, upper helmet amber eyes and armor silhouette more defined. Horse stands grounded, torso horizontal, not flying or rearing. One long spear planted point-first in road beside rider's RIGHT hand, shaft rises high enough to reach hand, no spear already held. Entire figure fits below tall bridge roof with clearance. Total mounted height approximate 4 times normal sedan height following chosen scale, not gigantic building size; no car in frame for this POV. Ground fog and reflected silhouette, not neon ghost or smoke monster. Dark subtle supernatural reveal.",
+      "note": "长枪提前持握，需修正",
+      "originalPath": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v1.png",
+      "archiveReason": "奥丁提前持枪，与随后拔枪动作不连续；正式使用v2。"
+    }
+  ],
+  "version": 2
+}

@@ -1,0 +1,15 @@
+{
+  "id": "K44",
+  "time": "100-104",
+  "name": "奥丁水幕内止步",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Camera on calm outside road looking BACK through translucent water curtain into dark bridge. Odin on giant black eight-legged horse has stopped just INSIDE boundary. Horse front hooves planted, head raised against taut reins, rider looming but unable to cross. Odin EMPTY of spear because it was thrown earlier; both gauntlets on reins. Water wall separates viewer and rider, silhouette recognizable through flowing water. Car already gone behind camera. No rider beyond water, no new spear.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S08_水幕外侧回望_场景母图_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘正面_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-d5e2322a-0abd-4048-ace6-0d38a67680af.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K44_奥丁水幕内止步_v1.png"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "K25",
+  "time": "51-58",
+  "name": "奥丁向下对视",
+  "batch": "03_对视擦身",
+  "status": "已生成，待本批复核",
+  "mode": "内置imagegen",
+  "prompt": "Use case: ads-marketing. Generate ONE final photoreal cinematic storyboard frame K25, landscape 16:9, reverse shot following K24 Chu Zihang looking up. Input1 is exact Odin identity reference ONLY, do not reproduce reference sheet layout. Input2 is previous K24 frame for continuity of rainy bridge setting, cold blue night / warm amber bridge lamps, rain density, cinematic realistic finish. Tight low-angle head and upper-chest portrait of the enormous mounted Odin, viewed from Chu's low driver-window eye position. Odin occupies center-left of frame, helmet slightly turned toward screen-right and chin deliberately lowered, visible amber eye looking DOWN toward screen-right directly to the offscreen driver/camera near lower right. Reciprocal eyeline to Chu looking up-left in K24. Preserve the exact angular dark gunmetal armored helmet with two tall narrow spear-like horns, beak faceplate, SINGLE restrained glowing amber eye, layered pointed shoulder armor with muted bronze edges, long silver-white hair and black cloak. Head and shoulder portrait, NOT full body. Show both helmet horns within image with headroom. Spear shaft may be cropped along left edge, no action or attack. Rain beads and trickles on metal, fine diagonal rain. Background out-of-focus riveted steel bridge trusses and a few warm lamps, stormy blue-black sky. Powerful calm downward stare, small believable head tilt, no human exposed face, no extra eyes, no skull, no crown redesign. Horse and car outside this tight crop, no other people. No text, no collage, no watermark. Keep realistic materials and grounded photographic lighting matching K24, not illustration.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/奥丁_本体三视图_v3.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K24_楚子航向上对视_v1.png"
+  ],
+  "source": "C:/Users/renxiaoxu/.codex/generated_images/01a124a7-ff81-7241-b335-d846c918462c/exec-ee69a7f1-07d5-4ce9-b1b6-44059b28fbba.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K25_奥丁向下对视_v1.png"
+}

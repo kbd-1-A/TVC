@@ -1,0 +1,15 @@
+{
+  "id": "K36",
+  "time": "83-86",
+  "name": "长枪击中原车道",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low dramatic wide frame: single ornate spear point embedded in wet asphalt in vacated RIGHT lane, shaft slants back upward, sharp splash and localized small broken asphalt at contact. Black Maybach has escaped to adjacent LEFT/CENTER lane and is further ahead, seen rear three-quarter receding, intact. Road lane separator clearly separates car from impact. No projectile through vehicle, no fireball. Odin distant background behind impact. One spear only. IMPORTANT: OMIT Odin and horse entirely, they are out of frame behind camera. Only car receding and single embedded spear are visible subjects.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁长枪_全长与细节设定_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-122d1bbb-62bf-49f0-a6cf-14a6a7210041.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K36_长枪击中原车道_v1.png"
+}

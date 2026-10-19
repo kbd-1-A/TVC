@@ -1,0 +1,15 @@
+{
+  "id": "K48",
+  "time": "112-114",
+  "name": "晨光车标",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Extreme elegant macro close-up of classic Maybach DOUBLE-M triangular upright hood ornament on glossy wet black hood, exact emblem design from car reference, NOT Mercedes star. Tiny rain droplets on chrome and paint, first warm eastern sunlight glints at emblem edge, shallow depth of field background softly suggests city morning. No additional text or logo floating, no entire car needed. Premium restrained gold highlight, natural photograph.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_车头细节_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S10_东方晨光_场景母图_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-b90d67b9-c74a-4230-b68c-e3a38e7c8199.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K48_晨光车标_v1.png"
+}

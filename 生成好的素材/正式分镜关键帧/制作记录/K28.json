@@ -1,0 +1,15 @@
+{
+  "id": "K28",
+  "time": "60-64",
+  "name": "八足马转身",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Wide three-quarter action shot of Odin reining his eight-legged horse through a tight grounded U-turn on wet bridge. Horse head turned toward right, shoulders pivoting, hindquarters follow, eight legs stepping in staggered placements, no rearing. Odin balanced in saddle, upright spear in right hand, left pulls reins. Cape swings outward with rotation. Car already departed out of frame. Low spray around hooves, clear complete horse and rider silhouette.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9face726-916a-4286-b26c-ef94673021d8.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K28_八足马转身_v1.png"
+}

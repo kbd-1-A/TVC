@@ -1,0 +1,14 @@
+{
+  "id": "K35",
+  "time": "83-86",
+  "name": "向左紧急避让",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. High REAR three-quarter wide shot following black Maybach moving AWAY from camera toward bridge vanishing point. Clearly see car TAIL LIGHTS not headlights. Car steers to its OWN LEFT from right lane into center lane, front wheels left, modest yaw, all wheels grounded, wet curved spray trail. A single spear in air on RIGHT side of frame descends toward empty original right lane, still just above road. No rider or horse visible in this shot; they are behind camera. No impact yet. Maintain realistic long car body, wet bridge, dynamic but readable lane change.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-ad1bbc9a-379a-43aa-90ae-fc452bbabf79.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K35_向左紧急避让_v1.png"
+}

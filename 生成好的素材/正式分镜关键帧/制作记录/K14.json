@@ -1,0 +1,14 @@
+{
+  "id": "K14",
+  "time": "31-36",
+  "name": "奥丁实体显现",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K14 apparition END. Image1 exact previous apparition frame. Keep camera, figure size/position, spear embedded BLADE FIRST at same spot, open right lane, bridge geometry. Make Odin and his eight-legged black horse FULLY SOLID and opaque, rain beads on armor, all visible legs anatomically coherent with eight hooves staggered in depth, black torso horizontal. Reduce mist around legs to reveal grounded hooves and wet contact reflections. Keep rider RIGHT HAND EMPTY beside saddle, left hand reins, no touching spear yet. Same amber eyes and black/bronze armor, cape silhouette, no extra spear. A dark heavy corporeal presence, not a glowing ghost.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v2.png",
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁与八足马_骑乘正面_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-2627c972-3485-4066-8439-db949ab64666.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K14_奥丁实体显现_v1.png"
+}

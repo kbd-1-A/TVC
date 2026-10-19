@@ -1,0 +1,15 @@
+{
+  "id": "K45",
+  "time": "104-108",
+  "name": "楚子航最后镜中回望",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Interior close-up of rearview mirror with physically correct rear-road reflection. Through rear glass reflected in mirror, distant bridge exit water curtain shrinks behind moving car, tiny shadow of stopped rider confined behind curtain. Include driver's focused eyes only at one small near edge of mirror if physically plausible, otherwise his blurred partial temple lower left foreground indicating glance. Soft early morning light enters cream cabin, rain diminished outside front glass. Main point final glance BACK, road receding, no horse beside car.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I03_车内后视镜_母图_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-f0f1fa96-f61b-4f1a-a62a-d62bbeac0c5d.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K45_楚子航最后镜中回望_v1.png"
+}

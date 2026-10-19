@@ -1,0 +1,14 @@
+{
+  "id": "K31",
+  "time": "74-76",
+  "name": "再次深踩油门",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Tight footwell close-up matched to reference. Chu's single RIGHT foot in plain black sneaker with black trouser hem pushes RIGHT narrow floor-hinged accelerator deeply toward firewall, heel grounded, sole contacts pedal, toe pointing upward/forward. Wide brake pedal on LEFT remains untouched, no left foot needed. Realistic foot anatomy, no double shoes. Warm footwell light, black carpet and beige trim. Show decisive greater pedal depression.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I02_油门与脚踏区_母图_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-e7d21b91-3968-4079-8348-edee12c60afe.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K31_再次深踩油门_v1.png"
+}

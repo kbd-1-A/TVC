@@ -1,0 +1,14 @@
+{
+  "id": "K43",
+  "time": "94-100",
+  "name": "整车驶出水幕",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same side three-quarter wide composition, car moving LEFT to RIGHT. Entire Maybach including rear bumper has CLEARED water curtain, now fully on calm dawn side RIGHT, vertical curtain remains LEFT behind car separated by short gap. Water trails from rear body, droplets sparkle; intact long luxury silhouette and four wheels, front end toward right. Dark rainy bridge beyond curtain, brighter cool morning ahead. No Odin outside barrier.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K41_车头进入水幕_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-e1528c69-18aa-41e8-9fae-437ce57a90e0.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K43_整车驶出水幕_v1.png"
+}

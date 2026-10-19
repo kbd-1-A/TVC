@@ -1,0 +1,15 @@
+{
+  "id": "K09D",
+  "name": "踏空尾帧",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09C_踏空起帧_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K10_高空奥丁蓄势_v1.png"
+  ],
+  "prompt": "ONE photoreal cinematic 16:9 END KEYFRAME for stepping into empty air. Image1 is START frame strict authority for building, horse/rider identity, low spear position, storm and camera. Image2 ONLY continuity reference for following K10 airborne shot, do NOT copy raised spear yet. Continue image1 forward in time: whole eight-legged horse walks calmly screen RIGHT and is NOW COMPLETELY OFF THE ROOF. Camera gently tracks right keeping horse centered, roof cornice recedes to FAR LOWER LEFT and ends BEFORE the horse's rearmost hoof. A very clear air gap at least half horse length between building edge and trailing hoof. All EIGHT hooves unsupported above distant city and river, walking gait, horse torso level, not plunging or leaping. Rider remains upright, holds ONE spear LOW at waist pointing right, slight start of shoulder rotation to lead next shot. Cape and silver hair stream LEFT. Same readable dark realistic armor, now sharper emerging from thin fog. Tall twin helmet horns fully within frame. Tiny rain dispersal under front hoof, NO glowing steps or visible platform, no wings. Preserve building architectural design from image1, cold blue storm sky and warm city light from both references. City low in frame to emphasize height. No text or panels.",
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9d48989f-bf82-4a8c-9446-50fdd08b2b19.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09D_踏空尾帧_v1.png",
+  "time": "30-32（尾帧）",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待剪辑连续性复核",
+  "mode": "内置imagegen"
+}

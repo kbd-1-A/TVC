@@ -1,0 +1,14 @@
+{
+  "id": "K46",
+  "time": "104-108",
+  "name": "收回目光继续前行",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same Chu Zihang identity and white shirt with beige seatbelt, cream Maybach cabin. Interior passenger-side medium close-up of driver in left seat, hands holding wheel naturally, eyes returned straight FORWARD to road after mirror glance. Calm subtle relieved breath, lips neutral no smile. Soft pale dawn light replaces blue storm, wet side window with few residual droplets, brighter quiet city road blurred outside. No Odin reflection, no other occupants. Natural photoreal young face.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-d9a3b109-8a49-46af-b55f-e15efdc603e2.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K46_收回目光继续前行_v1.png"
+}

@@ -1,0 +1,821 @@
+[
+  {
+    "id": "K01",
+    "time": "00-04",
+    "name": "暴雨中孤车驶来",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K01 0-4s opening wide shot. Image 1 bridge style; image 2 car identity. Camera on west A-city approach looking BACK west along wet empty elevated approach road, bridge entrance immediately behind camera, avoid showing B tower ahead. One black Maybach approaches from distant rain, front three-quarter visible small at middle distance occupying about 18 percent frame width, white headlights reflecting in road. Empty road dominates foreground, dense cool storm, city in soft haze, film opening suspense. Driver not recognizable yet, no Odin, no supernatural effects. Car stays aligned along eastbound lanes.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S01_A城桥入口_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-bf53d8f1-636e-42a7-939c-6f076a5891cd.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K01_暴雨中孤车驶来_v1.png"
+  },
+  {
+    "id": "K02",
+    "time": "04-07",
+    "name": "雨水车标",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K02 4-7s. Reference 1 exact hood ornament, grille and black hood design. Extreme cinematic macro of the Maybach double-M metal hood ornament on its short base attached to black hood. Ornament sharp at right-of-center, beads and rivulets of rain wrapping polished metal; shallow depth of field, cold dark rain, long warm streetlight bokeh. Hood and a sliver of chrome grille present, no full car, no driver reveal. Wet metallic detail, 85mm macro feeling, no sunlight. Preserve emblem topology from reference, no extra emblem.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_车头细节_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-162dc110-b2d4-4485-b727-7ce734c37cb2.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K02_雨水车标_v1.png"
+  },
+  {
+    "id": "K03",
+    "time": "07-08.5",
+    "name": "车灯穿雨",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K03 7-8.5s. Image1 exact classic car headlight/grille. Tight low front-left corner tracking close-up of the moving black Maybach, paired circular projector lamps inside original oval housing turned on, white beams visibly cutting diagonal rain, wet chrome and black body, tiny water beads and lens texture sharp. Crop grille at screen right and front fender at screen left. Dark blue rainy street bokeh behind, warm streetlamp reflections, realistic controlled highlights, not overexposed. No driver face, no extra vehicle, no modern LED strip.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_车头细节_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-d152714e-6b68-4b53-b869-2f963713327f.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K03_车灯穿雨_v1.png"
+  },
+  {
+    "id": "K04",
+    "time": "08.5-10",
+    "name": "轮胎压水",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K04 8.5-10s. Image1 exact silver alloy wheel and black front fender identity. Ground-level side tracking extreme close-up of front wheel rolling through shallow standing rainwater, tire stays in road contact, water squeezed sideways and backwards into a low fan. Wheel rim readable with slight rotational blur only, black wet fender and chrome sill, cold night and warm lamp reflections. Freeze beautiful plausible splash at bottom, no airborne car, no sparks, no muddy offroad, no dry studio ground. Background out of focus roadway, no extra vehicle or horse.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_轮毂细节_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-06bc1429-fc5a-48ba-b85c-9254748c0167.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K04_轮胎压水_v1.png"
+  },
+  {
+    "id": "K05",
+    "time": "10-15",
+    "name": "入桥摇摄起帧",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K05 10-15s bridge entrance shot START. Reference 1 is LOCKED camera/environment, retain right foreground guardrail and the bridge entrance and B tower positions. Reference2 vehicle. Insert one full black Maybach seen from REAR RIGHT three-quarter, moving away from camera into bridge in right lane. Rear bumper stays inside frame at lower-left/center, car nose has JUST passed first steel portal while back half still before it. Full long car visible, correct tail lamps and cream interior, modest tire spray, not stationary posing. Match perspective and lamp reflections. Keep bridge 3 lanes. Do not reverse car direction; do not show car front approaching camera. No Odin or horse yet. Camera fixed at right roadside.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S01_A城桥入口_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-5cf89e94-5bf2-4692-9f42-f6ec6fa9c638.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K05_入桥摇摄起帧_v1.png"
+  },
+  {
+    "id": "K06",
+    "time": "10-15",
+    "name": "入桥停镜尾帧",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K06 continuation END of K05. Image1 previous starting keyframe is exact edit target and continuity authority. Keep camera FIXED, bridge, skyline, rails, lamps, rain and perspective unchanged. Move the SAME ONE car away along the road to three truss bays deeper inside bridge, now considerably smaller about 12 percent frame width. Car remains rear three-quarter view and stays on its existing forward lane trajectory, all of car inside frame, two small red tail lamps reflected on wet road. Remove car from old large foreground position and reconstruct wet pavement; never show two cars. This ends a fixed-roadside pan that has now stopped, not a tracking camera shot.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K05_入桥摇摄起帧_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-2dfe021e-dc3b-44b0-aae4-500ff204fae7.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K06_入桥停镜尾帧_v1.png"
+  },
+  {
+    "id": "K07",
+    "time": "15-19",
+    "name": "楚子航首次侧目",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. Precise edit of image1. Keep exact same young man's identity, white shirt, seatbelt, hands on wheel, body and cabin camera. Change ONLY head and gaze: driver rotates head about 45 degrees toward HIS LEFT shoulder and DRIVER SIDE WINDOW, AWAY from camera on passenger side. We should now see more of BACK/right side of his head and his right ear, with nose pointing into rainy side window behind him in image upper-left, not pointing toward steering wheel/front windshield on screen right. Eyes looking outside left side window at river city. Small natural neck rotation, torso still forward, hands unchanged. It is a deliberate brief side glance. Preserve camera and all architecture.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K07_楚子航首次侧目_旧版_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-30f82ad5-042d-4082-be6a-455d598f9fc6.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K07_楚子航首次侧目_v2.png",
+    "history": [
+      {
+        "path": "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K07_楚子航首次侧目_旧版_v1.png",
+        "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K07 15-19s first driver reveal. Image1 exact cream leather/burled walnut left-hand-drive cabin and camera from front passenger seat. Image2 is Chu's exact facial identity, hair, white shirt, use one person only not triptych. Seat him correctly in DRIVER seat left, torso upright, lap/shoulder seatbelt fitted, both hands naturally resting on steering wheel about 9 and 3, fingers anatomically correct. Medium close three-quarter profile shot, slight tighter crop than empty cabin reference, his youthful face clearly readable. Head gently turned LEFT toward driver side rainy window and city, thoughtful guarded expression, not looking at passenger/camera. Outside passing steel bridge and rain at night, warm dim cabin on skin with cool window fill. Keep natural body size, arms not disconnected, no passengers.",
+        "note": "目光偏前，作为备选",
+        "originalPath": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K07_楚子航首次侧目_v1.png",
+        "archiveReason": "旧版视线朝前，未完成侧目；正式使用v2。"
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "K08",
+    "time": "19-24",
+    "name": "高空俯拍孤车",
+    "batch": "01_开场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K08 19-24s. Image1 LOCKED aerial bridge plate. Image2 exact car identity. Keep aerial camera, river, both banks, bridge trusses and B city unchanged. Add exactly ONE small classic black Maybach 62 on bridge deck visible between overhead truss bays in lower-middle portion, moving away from near A bank toward far B city. Car scaled to realistic lane width, body fits in one of three lanes, red rear lights small and wet spray subtle; do not make giant car, no other cars/headlights. Preserve open lattice bridge roof, do not put car on roof or river. Car should be legible at high resolution yet isolated in enormous rainy environment. No Odin yet.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S11_桥梁高空俯拍_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-b69dfb42-10bb-4979-9929-b3678af6a40e.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K08_高空俯拍孤车_v1.png"
+  },
+  {
+    "id": "K09",
+    "time": "24-27",
+    "name": "桥内驶向异变",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K09 24-27s bridge just before supernatural encounter. Image1 bridge interior environment camera looking east toward B city. Image2 car identity. Low rear three-quarter following shot of one Maybach driving deeper onto empty rain-soaked steel bridge, car in lower-left to center, entire body visible, two tail lamps, subtle spray, a long empty road ahead dominates center/right. Fog begins thickening farther along bridge, storm cloud low, warm lamps still lit. Do not show Odin, horse or spear yet, no water curtain; this is tense transition from isolation. Keep one normal long sedan with tires grounded, no other vehicles.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S02_暴雨钢架桥_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-a544d765-8cdb-47c0-b205-483d9abfd55f.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K09_桥内驶向异变_v1.png"
+  },
+  {
+    "id": "K09A",
+    "name": "楚子航察觉抬眼",
+    "version": 2,
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09A_楚子航察觉抬眼_v1.png"
+    ],
+    "prompt": "Precise edit of attached cinematic frame, keep same face identity, white shirt, seatbelt, rainy closed glass, camera, cabin, bridge and lighting. Correct ONLY head and eyes: rotate the young man's face BACK toward windshield at SCREEN RIGHT until it is almost a right-facing profile, nose clearly points screen right. Head aligned nearly with driving torso, no sideways/backward look toward camera. Chin lifted only 5 degrees and eyes glance UP and FORWARD toward upper right of image, looking at something above road ahead. Expression slight alertness, lips closed. This is a subtle first discovery, not a full face-to-face encounter. Same 16:9 photoreal frame, no added objects.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-a526af9d-e64e-4889-b2ef-dc449ff4954b.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09A_楚子航察觉抬眼_v2.png",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen",
+    "superseded": "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09A_楚子航察觉抬眼_v1.png"
+  },
+  {
+    "id": "K09B",
+    "name": "楼顶骑乘虚影",
+    "version": 2,
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09B_楼顶骑乘虚影_v1.png"
+    ],
+    "prompt": "Precise cinematic edit, preserve identical roof architecture, window edge foreground, steel bridge diagonal, skyline, framing and Odin/horse positions facing RIGHT. Change only apparition visibility: make mounted Odin and eight-legged horse a dark SEMI-TRANSPARENT PHANTOM silhouette veiled in blue-grey rain mist. Lower armor surface contrast dramatically, remove most sharp highlights, allow storm-cloud texture to faintly show through lower body, cloak and legs. Helmet horns, horse head and low-held spear remain recognizable silhouettes; just one tiny dim amber eye. Rooftop itself remains solid crisp wet concrete; ONLY apparition soft ghostly edges and drifting fog. About half of armor detail concealed, not entirely invisible. No neon aura, glowing outline, new lightning, smoke monster or changed pose. Restrained ominous distant reveal, exact 16:9.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-429a0a51-1506-4c71-8d05-71e1e5697287.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09B_楼顶骑乘虚影_v2.png",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen",
+    "superseded": "E:\\ai创意广告\\迈巴赫\\废弃\\楼顶踏空修订_2026-10-10\\K09B_楼顶骑乘虚影_v1.png"
+  },
+  {
+    "id": "K09C",
+    "name": "踏空起帧",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09B_楼顶骑乘虚影_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png"
+    ],
+    "prompt": "ONE cinematic photoreal 16:9 keyframe, continuation of attached rooftop reveal. Same Odin, horse, wet concrete rooftop and stormy blue city with amber windows. Cut closer to external SIDE three-quarter low-angle camera near roof height, no car window framing. Horse faces SCREEN RIGHT. Show unmistakable FIRST STEP OFF ROOFTOP: roof fills lower LEFT, roof EDGE ends near frame center under horse belly; hind hooves still bear weight on wet roof at left, leading front hoof extends forward into EMPTY AIR at right at same height as roof. Front limbs start slow walking, not a leap or rear. Body stays LEVEL, rider calm upright, single spear low across thigh pointed right, NO throwing pose yet. Eight anatomically rooted legs: four front and four rear, staggered with natural overlap. Subtle rain-mist around legs, dark edges not neon. A tiny localized displacement of rain below extended hoof implies invisible support, NO visible platform, stairs, clouds beneath feet or wings. Large open air gap under front legs, skyline far below, roof contact of hind legs CLEAR. Keep roof architecture and dark blue weather from image1, exact armor from image2. Entire rider and hooves visible, no cropped horns, no text, no collage.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-f464ea8b-ece2-4744-9abb-68030e1dda0e.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09C_踏空起帧_v1.png",
+    "time": "30-32（起帧）",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen"
+  },
+  {
+    "id": "K09D",
+    "name": "踏空尾帧",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09C_踏空起帧_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K10_高空奥丁蓄势_v1.png"
+    ],
+    "prompt": "ONE photoreal cinematic 16:9 END KEYFRAME for stepping into empty air. Image1 is START frame strict authority for building, horse/rider identity, low spear position, storm and camera. Image2 ONLY continuity reference for following K10 airborne shot, do NOT copy raised spear yet. Continue image1 forward in time: whole eight-legged horse walks calmly screen RIGHT and is NOW COMPLETELY OFF THE ROOF. Camera gently tracks right keeping horse centered, roof cornice recedes to FAR LOWER LEFT and ends BEFORE the horse's rearmost hoof. A very clear air gap at least half horse length between building edge and trailing hoof. All EIGHT hooves unsupported above distant city and river, walking gait, horse torso level, not plunging or leaping. Rider remains upright, holds ONE spear LOW at waist pointing right, slight start of shoulder rotation to lead next shot. Cape and silver hair stream LEFT. Same readable dark realistic armor, now sharper emerging from thin fog. Tall twin helmet horns fully within frame. Tiny rain dispersal under front hoof, NO glowing steps or visible platform, no wings. Preserve building architectural design from image1, cold blue storm sky and warm city light from both references. City low in frame to emphasize height. No text or panels.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9d48989f-bf82-4a8c-9446-50fdd08b2b19.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09D_踏空尾帧_v1.png",
+    "time": "30-32（尾帧）",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen"
+  },
+  {
+    "id": "K09E",
+    "name": "踏空转举枪过渡",
+    "version": 1,
+    "refs": [
+      "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-70cac22d-d68a-4410-ab39-460242bf443c.png"
+    ],
+    "prompt": "Precise local pose correction. Preserve image camera, rider identity, horse pose, roof corner, skyline, rain and lighting. LOWER the spear-holding RIGHT arm and spear substantially: right elbow now beside ribs, right hand in front of upper chest near clavicle BELOW chin height. ONE spear lies horizontally at upper chest height, shaft crosses below helmet face and above horse neck, spearhead points RIGHT. NO arm or spear above shoulders or helmet. This is the midway lifting motion from waist to shoulder, BEFORE overhead windup. Left hand remains holding reins. Keep spear straight, one weapon only. All other pixels/composition as unchanged as possible, 16:9.",
+    "initial_prompt": "Create ONE 16:9 photoreal cinematic INTERMEDIATE animation keyframe between reference1 airborne calm walking and reference2 full spear windup. Same Odin, eight-legged black armored horse, storm city, rightward direction and left-streaming cloak. Camera transitions toward ref2: low side three-quarter, roof now barely a corner at lower left, skyline low. Odin RIGHT hand has lifted the ONE spear from waist to just above SHOULDER LEVEL, elbow bent and upper arm halfway raised, spear nearly horizontal tip toward RIGHT. Spear is not yet above helmet and not fully drawn back. Left hand holds reins. Horse neck lifts slightly and front paired limbs begin folding, halfway between level walking and raised-foreleg ref2 pose, hind legs trail, eight anatomically rooted legs. Whole horse unsupported in sky, no ground/platform. Preserve exact black gunmetal armor, tall twin horns, silver hair, amber eye. NO extra spear or limbs, NO throw yet. This middle pose must read as initiating the same overarm throwing arm from ref2, not holding spear in opposite hand. Dramatic restrained realism, no text.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-44935d22-3589-47ed-9945-fbedd7d9aede.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K09E_踏空转举枪过渡_v1.png",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen"
+  },
+  {
+    "id": "K10",
+    "time": "27-29",
+    "name": "高空奥丁蓄势",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K10 27-29s FIRST THROW preparation. Image1 stormy B-city tower setting. Image2 authoritative mounted Odin and eight-legged horse identity. Image3 spear design. Dramatic medium-wide low oblique view of supernatural mounted Odin suspended amid storm cloud above B-city tower's distant pinnacle, not standing on a tiny roof; tower lower background establishes high altitude. Full horse and rider in frame, black armored eight-legged horse gathered suspended stance, tattered cape blown sideways. Odin torso twists back, RIGHT arm drawn behind shoulder holding one long spear near balance point horizontally at throwing angle, sharp tip aimed diagonally DOWN toward offscreen bridge. Left hand reins. Same closed pointed helmet and amber eyes, no visible human face. Visible gap between rider and tower; no bridge in foreground, no car, no duplicate spear, no lightning weapon beam. Ominous dark silhouette rim lit by cloud lightning, realistic armor readable, low dense rain.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S04_B城高塔_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁与八足马_骑乘侧面_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-a30db6bd-a6a8-4cd9-b271-ac9259438333.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K10_高空奥丁蓄势_v1.png"
+  },
+  {
+    "id": "K11",
+    "time": "27-29",
+    "name": "高空首次投枪",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K11 immediate continuation of reference1 high sky Odin throw. Keep SAME airborne mounted Odin, camera, tower location, lighting and horse. Change right arm to forceful forward/downward extension, torso leaning into throw, open armored fingers just released ONE spear. Spear is detached from hand and flies diagonally toward LOWER RIGHT foreground/offscreen bridge, narrow spearhead leading down-right, shaft trailing toward rider. Spear entirely or almost entirely in frame, a visible gap between hand and butt; maintain same long pointed bronze-edged blade, no second spear left in hand. Cape streams opposite motion. Freeze instant after release with subtle air/rain streaks, no energy beam, no explosion. Horse eight legs coherent, no duplicated rider, avoid turning it into four-leg horse.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K10_高空奥丁蓄势_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-1c4d7fc7-7bc0-4256-94b4-476664c919cc.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K11_高空首次投枪_v1.png"
+  },
+  {
+    "id": "K11A",
+    "name": "投枪后空中虚影消散",
+    "version": 1,
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K11_高空首次投枪_v1.png"
+    ],
+    "prompt": "Precise next-moment edit of attached shot. Same cinematic 16:9 camera, storm sky, city skyline and mounted Odin/horse position. Spear has ALREADY FLOWN out of frame at lower right: remove entire spear projectile, rider throwing hand stays extended EMPTY. Mounted rider and horse now DISSOLVE into cold rain and thin mist, outer cloak and hindquarters and hooves mostly transparent, cloud texture visible through them, central helmet/torso/horse head retain a faint recognizable fading silhouette. Approximately 65 percent faded. No falling body, no death/gore, no explosion or fire, no duplicate figure, no luminous particles/neon. Local fine rain swirls mark vanishing, one dim amber eye almost extinguished. City and clouds remain solid unchanged. Convey supernatural disappearance AFTER release, ready to cut to spear hitting bridge and rider re-forming there. No new spear in hand, no text.",
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9483cb9b-fa7a-411f-b9ae-cfff07d83a57.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K11A_投枪后空中虚影消散_v1.png",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待剪辑连续性复核",
+    "mode": "内置imagegen"
+  },
+  {
+    "id": "K12",
+    "time": "29-31",
+    "name": "长枪刺入桥面",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K12 29-31s spear impact close shot. Image1 bridge material/weather. Image2 SAME single spear exact blade and shaft. Low ground-level oblique close view of spear striking wet road near left/middle lane boundary, sharp BLADE POINT penetrating asphalt at bottom-center, long straight shaft extends diagonally upward out of top frame, no spear standing butt-first. Show recognizable basal edges of blade just above ground, water ring and a restrained burst of asphalt chips and spray, small cracked impact spot, no huge crater or explosion. Bridge lamps and rails recede in background, cold rain. No rider or horse materialized yet, car remains offscreen behind camera. Ensure shaft attaches at blade base, no second weapon.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S02_暴雨钢架桥_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-fbd25201-179f-496d-9db3-ee9d44cbbcf3.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K12_长枪刺入桥面_v1.png"
+  },
+  {
+    "id": "K13",
+    "time": "31-36",
+    "name": "骑乘幽影显现",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. Precise continuity correction of image1. The rider MUST NOT HOLD A SPEAR. Delete the entire upright spear from his right hand. Lower his empty right gauntlet to rest naturally beside saddle at image x=450,y=475, empty fingers visible. Instead place exactly ONE long spear planted BLADE-FIRST in road at x=300,y=785, leaning diagonally upward to x=390,y=240; large main spear blade at BOTTOM partly embedded, straight black shaft runs above it and simple small butt at TOP. Blade design per image2 but inverted vertically because point penetrates road. There is a CLEAR GAP between planted spear shaft and empty gauntlet, no contact. Rider and horse remain in same position but their lower bodies become more translucent with mist and bridge lamps faintly visible through lower legs, an apparition mid-materialization. Upper silhouette stays identifiable. Keep right lane open, same bridge, camera and rain, no second weapon.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K13_骑乘幽影显现_旧版_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-c05dcb67-6911-4d86-9908-1e767a99251b.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v2.png",
+    "history": [
+      {
+        "path": "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K13_骑乘幽影显现_旧版_v1.png",
+        "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K13 31-36s apparition START. Image1 bridge longitudinal environment. Image2 mounted Odin front identity only, REMOVE his held spear. Image3 spear identity. Camera from approaching driver's road height outside car, 30 metres west of apparition, looking EAST. Full giant mounted Odin begins coalescing in rain mist on LEFT/MIDDLE lane boundary, slightly screen left, right lane fully open. Exactly one dark SEMITRANSPARENT rider and one eight-legged horse, lamps faintly visible through their lower bodies, upper helmet amber eyes and armor silhouette more defined. Horse stands grounded, torso horizontal, not flying or rearing. One long spear planted point-first in road beside rider's RIGHT hand, shaft rises high enough to reach hand, no spear already held. Entire figure fits below tall bridge roof with clearance. Total mounted height approximate 4 times normal sedan height following chosen scale, not gigantic building size; no car in frame for this POV. Ground fog and reflected silhouette, not neon ghost or smoke monster. Dark subtle supernatural reveal.",
+        "note": "长枪提前持握，需修正",
+        "originalPath": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v1.png",
+        "archiveReason": "奥丁提前持枪，与随后拔枪动作不连续；正式使用v2。"
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "K14",
+    "time": "31-36",
+    "name": "奥丁实体显现",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K14 apparition END. Image1 exact previous apparition frame. Keep camera, figure size/position, spear embedded BLADE FIRST at same spot, open right lane, bridge geometry. Make Odin and his eight-legged black horse FULLY SOLID and opaque, rain beads on armor, all visible legs anatomically coherent with eight hooves staggered in depth, black torso horizontal. Reduce mist around legs to reveal grounded hooves and wet contact reflections. Keep rider RIGHT HAND EMPTY beside saddle, left hand reins, no touching spear yet. Same amber eyes and black/bronze armor, cape silhouette, no extra spear. A dark heavy corporeal presence, not a glowing ghost.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K13_骑乘幽影显现_v2.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁与八足马_骑乘正面_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-2627c972-3485-4066-8439-db949ab64666.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K14_奥丁实体显现_v1.png"
+  },
+  {
+    "id": "K15",
+    "time": "36-40",
+    "name": "俯身拔枪",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K15 36-40s mounted spear retrieval START. Reference1 continuity location and mounted design. Reframe into medium close oblique view from Odin's RIGHT side, showing rider waist, shoulder, right armored hand and long planted spear beside horse. Odin remains seated in saddle, leans torso naturally down and to his right, his RIGHT gauntlet now wraps around upper-middle shaft at reachable waist height. Spear blade points DOWN into wet asphalt and remains partly embedded, shaft straight tilted toward rider, not upward-facing weapon. Left hand holds reins, horse still stands calmly, saddle and rider boot/stirrup visible; do not dismount. Rainwater runs over armor and gauntlet, small wet road impact mark below, enough of horse to understand mounted action. Same single spear, no magic beam, no spare weapon. Action is beginning to PULL UP from ground.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K14_奥丁实体显现_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-d214527f-4276-4a3e-b0ba-c49424c5523d.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K15_俯身拔枪_v1.png"
+  },
+  {
+    "id": "K16",
+    "time": "36-40",
+    "name": "骑乘举枪",
+    "batch": "02_奥丁登场",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K16 36-40s spear retrieval END. Reference1 mounted entity bridge frame sets exact camera and subject placement; reference2 spear design. Odin now sits upright and grips the SAME ONE spear in right gauntlet, fully removed from road and rotated so blade points UP. Spear at a slight diagonal safely below roof girders, blade fully visible, butt not penetrating road. Empty small impact mark at former embedded point, no weapon left there. All eight-legged horse and mounted helmet silhouette readable, same rain and black bronze armor, left hand reins, amber eyes gaze down toward approaching driver beyond camera. Left/middle road boundary occupied, right lane remains unobstructed. No car in this frame. Epic controlled threatening stillness, no rearing or aggressive lunge.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K14_奥丁实体显现_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-0b9309e0-9048-478c-96d2-800583869d87.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K16_骑乘举枪_v1.png"
+  },
+  {
+    "id": "K17",
+    "time": "40-43",
+    "name": "楚子航视角对峙",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K17 40-43s Chu DRIVER POV encounter. Image1 exact left-hand-drive Maybach forward cabin. Image2 mounted Odin on bridge with spear retrieved. Composite a believable view through rainy windshield from Chu's eyes, steering wheel lower foreground, his two white-cuffed hands lightly holding wheel at 9 and 3, no face. Giant mounted Odin ahead 20-25 metres occupies left/middle road boundary, full horse and helmet visible through windshield, black bronze armor and single spear angled safely under overhead beams. Right lane remains clearly free. Car slowly rolls closer, wheel still straight, no premature turn or acceleration. Match rider scale to selected film giant, full mounted height roughly four car heights. Cabin warm dark and bridge outside cold, wiper cleared central patch permits eye contact, rain on glass edges. Camera looking slightly upward from seat at rider, not rider inside car. No additional car visible, no duplicated spear, no bright ghost effects.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\驾驶舱母图\\S06_驾驶员向前视角_母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K16_骑乘举枪_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-a0482648-ed7b-441f-9c5f-d686efd3ec18.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K17_楚子航视角对峙_v1.png"
+  },
+  {
+    "id": "K18",
+    "time": "43-46",
+    "name": "奥丁俯视来车",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K18 43-46s ODIN POV. Image1 elevated west-looking bridge plate is camera authority; image2 Maybach identity; image3 Chu face. Preserve elevated rider eye viewpoint about 5.5m above road and downward angle, not drone above bridge. Add one approaching black Maybach on screen-left half of roadway about 10 metres ahead, FRONT three-quarter with roof and windshield visible from above. Car still aligned straight, approaching slowly before acceleration. Through rain-cleared windshield see Chu in left-hand driver seat, white shirt, seatbelt, looking slightly UP toward camera/giant Odin, hands on wheel. His face small but coherent, no face reflected floating on roof. Car realistic size fits one lane. West skyline no B needle tower. No visible Odin/horse body in true POV, no other car. Wet headlight reflections and restrained spray. Maintain road depth and truss geometry.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S12_奥丁骑乘高度俯视_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\楚子航_三视图_v3.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-dbc5bda6-0972-4a34-b2e9-230408aa6d90.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K18_奥丁俯视来车_v1.png"
+  },
+  {
+    "id": "K19",
+    "time": "46-47.2",
+    "name": "首次踩油门",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K19 46-47.2s first accelerator press. Image1 exact footwell and pedal layout. Image2 footwear/trouser identity. Close shot INSIDE dry cream-trim driver footwell. Add Chu's RIGHT foot in plain black low-top lace-up sneaker with black sole and black trouser hem. Heel anchored naturally on carpet below accelerator, ball of foot contacting the narrow RIGHT accelerator pedal and pressing it about halfway down. Broad brake to LEFT remains clearly visible and untouched. Only one right foot/leg visible, leg enters naturally from lower-left foreground, no floating foot, no extra toe, no wrong left pedal pressing. Warm dim footwell light, slight dynamic tension, no rainwater inside cabin, no text.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\驾驶舱母图\\I02_油门与脚踏区_母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\楚子航_三视图_v3.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-1d0d8f46-6ff1-48f7-9add-d9b93626b69f.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K19_首次踩油门_v1.png"
+  },
+  {
+    "id": "K20",
+    "time": "47.2-49",
+    "name": "转向右侧通道",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K20 47.2-49s steering toward RIGHT passing lane. Image1 steering wheel reference; image2 Chu white sleeves/hands continuity. Tight framing wheel and BOTH hands, driver's face out of frame. Chu rotates wheel modestly CLOCKWISE about 35 degrees, left hand rises toward 10 o'clock, right hand lowers toward 4 o'clock, natural firm grip with five fingers each, no crossed or extra hands. Wood and cream wheel/hub turn as a single rigid unit, dashboard stays fixed. Rainy bridge bokeh through windshield, right lane direction implied. Show dynamic tension and deliberate controlled input, not extreme drift. Same cream and walnut cabin, warm dim lights, no modern digital dashboard. No rider visible through cropped view.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\驾驶舱母图\\I01_方向盘与仪表_母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\01_开场\\K07_楚子航首次侧目_v2.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-1ec3f708-55fa-42c6-b78e-aace93559c49.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K20_转向右侧通道_v1.png"
+  },
+  {
+    "id": "K21",
+    "time": "49-51",
+    "name": "独立加速车镜",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K21 49-51s independent TWO SECOND acceleration car shot. Image1 car identity, image2 bridge material and lateral space. Dynamic low front-right three-quarter tracking shot of black Maybach accelerating along rightmost lane, car complete within frame occupying 65 percent width, nose points toward screen right, long sedan body intact. White-shirted Chu faintly visible through windshield seated properly. Tires stay on ground throwing low wet spray behind, wheels slight rotational blur, bridge lamps streak subtly along background only. Storm night cold body highlights and warm wet road. Right guardrail remains safely outside vehicle path. NO Odin/horse/spear in this shot: it is car acceleration before passing cut. No drifting sideways, no excessive body lean, no multiple cars.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\迈巴赫62\\迈巴赫62_三视图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\场景母图\\S03_桥面侧向空间_场景母图_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\楚子航_三视图_v3.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-6945be57-fa42-4ea2-aa0b-2db1d9db3d44.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K21_独立加速车镜_v1.png"
+  },
+  {
+    "id": "K22",
+    "time": "51-58",
+    "name": "擦身同框起帧",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. Precise correction. Image1 edit target; image2 authoritative EIGHT LEGS horse anatomy. KEEP Odin+horse current size and location and bridge composition. Car is TOO BIG: shrink entire car uniformly to 60 percent current width and height, keeping normal sedan proportions, about 550px long and 160px high. Car ground contact stays y=790, front bumper x=950, rear x=400, roof around y=630. Car moving screen right in near lane, driver remains seated naturally, do not leave big car behind. Thus mounted helmet-to-hoof height ~650px is FOUR times car 160px, matching approved production scale. HORSE MUST HAVE EXACTLY EIGHT LEGS like image2, add missing far-side legs: four front limbs and four hind limbs, anatomically attached at forequarter/hindquarter, all eight separate hooves readable with slight stance stagger, not just the four-legged ordinary horse currently shown. Preserve black barding and rider identity, spear upright, car passage unobstructed. Rebuild wet reflections and rain around reduced car. No additional vehicles, no text.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K22_擦身同框起帧_旧版_v1.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁与八足马_骑乘侧面_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-0a68101b-6d7a-46ed-a0ea-c04d13da0d6d.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K22_擦身同框起帧_v2.png",
+    "history": [
+      {
+        "path": "E:\\ai创意广告\\迈巴赫\\废弃\\正式分镜整理_2026-10-10\\K22_擦身同框起帧_旧版_v1.png",
+        "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K22 slow-motion pass START 51-58s. Image1 selected approved SCALE reference: preserve horse+rider total height relative to car, giant around four car heights, horse proportions and armor. Image2 car design. Change layout for physical passing: broad SIDE CAMERA from SOUTH side of bridge looking north. EASTWARD car motion is SCREEN LEFT TO RIGHT. Horse faces WEST / screen LEFT, standing on far LEFT/MIDDLE lane boundary. Maybach drives EAST / screen RIGHT in near RIGHT lane, longitudinal axis parallel to lanes, no head-on collision; near and far lanes separated laterally with safe gap. Frame entire giant mounted Odin in upper middle-right and entire car in lower-left, car's front reaches level with horse's front forelegs, driver cabin not yet level with saddle. Car normal long proportions and chosen small relative size, car tire baseline near horse ground level with coherent slight depth. Giant looks down toward approaching driver's window, driver subtly looks up-left toward Odin. Long spear held upright away from car path, cloak behind horse, overhead truss clearance. Two white dashed road separators run left-right in perspective. Rain droplets frozen, restrained wheel spray, no car stopped, no touching or overlapping limbs/car.",
+        "note": "车身偏大、八足不清",
+        "originalPath": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K22_擦身同框起帧_v1.png",
+        "archiveReason": "车马比例偏离选定版、八足不清；正式使用v2。"
+      }
+    ],
+    "version": 2
+  },
+  {
+    "id": "K23",
+    "time": "51-58",
+    "name": "擦身同框尾帧",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K23 slow-motion pass END, edit previous keyframe. Keep mounted Odin and EIGHT-legged horse size, exact bridge and side camera. Move the SAME black Maybach forward screen RIGHT along near lane by roughly one car length. Full car now lower-right with front close to right margin and rear approximately under horse saddle. Keep vehicle exactly previous size and proportion, ground baseline, wheels touching road, safe lateral separation from horse. Car has passed horse head and is moving beyond rider; rider turns helmet DOWN and toward his LEFT/rear to follow driver through side window, neck naturally rotates, no body dismount. Chu in front left seat looks briefly up-left/back at rider as passing ends, then will look forward next shot. Preserve spear grip and cape, do not turn whole horse yet. Frozen slow-motion rain and small tire spray. Only ONE car at its new position, reconstruct empty road at old position.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K22_擦身同框起帧_v2.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-0882ae8a-5fe8-4250-8354-a7ed5c995a5c.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K23_擦身同框尾帧_v1.png"
+  },
+  {
+    "id": "K24",
+    "time": "51-58",
+    "name": "楚子航向上对视",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K24 eye contact insert within 51-58s slow passing. Reference1 exact Chu facial identity and white shirt. Reference2 cream/walnut cabin style. Camera OUTSIDE driver's LEFT side window looking inward slightly upward, tight head-and-shoulders cinematic close-up through rain-speckled closed glass. Chu in left driver seat, seatbelt, turns head LEFT toward window and tilts eyes UP at enormous Odin outside above camera. Clear readable intense composed young face, lips closed, not frightened open mouth, no grin, no helmet. Part of wheel and white sleeve lower-right, hands driving out of crop. Glass subtly reflects dark bronze horse armor as abstract soft shapes only, never a second face. Cold blue passing bridge reflections and warm dim skin, frozen raindrops. Preserve young man's face, no extra passengers.",
+    "refs": [
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\楚子航_三视图_v3.png",
+      "E:\\ai创意广告\\迈巴赫\\生成好的素材\\驾驶舱母图\\S05_副驾驶看驾驶位_母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-07fa2699-a103-46d1-8379-089ee4cf1fa7.png",
+    "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\03_对视擦身\\K24_楚子航向上对视_v1.png"
+  },
+  {
+    "id": "K25",
+    "time": "51-58",
+    "name": "奥丁向下对视",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "mode": "内置imagegen",
+    "prompt": "Use case: ads-marketing. Generate ONE final photoreal cinematic storyboard frame K25, landscape 16:9, reverse shot following K24 Chu Zihang looking up. Input1 is exact Odin identity reference ONLY, do not reproduce reference sheet layout. Input2 is previous K24 frame for continuity of rainy bridge setting, cold blue night / warm amber bridge lamps, rain density, cinematic realistic finish. Tight low-angle head and upper-chest portrait of the enormous mounted Odin, viewed from Chu's low driver-window eye position. Odin occupies center-left of frame, helmet slightly turned toward screen-right and chin deliberately lowered, visible amber eye looking DOWN toward screen-right directly to the offscreen driver/camera near lower right. Reciprocal eyeline to Chu looking up-left in K24. Preserve the exact angular dark gunmetal armored helmet with two tall narrow spear-like horns, beak faceplate, SINGLE restrained glowing amber eye, layered pointed shoulder armor with muted bronze edges, long silver-white hair and black cloak. Head and shoulder portrait, NOT full body. Show both helmet horns within image with headroom. Spear shaft may be cropped along left edge, no action or attack. Rain beads and trickles on metal, fine diagonal rain. Background out-of-focus riveted steel bridge trusses and a few warm lamps, stormy blue-black sky. Powerful calm downward stare, small believable head tilt, no human exposed face, no extra eyes, no skull, no crown redesign. Horse and car outside this tight crop, no other people. No text, no collage, no watermark. Keep realistic materials and grounded photographic lighting matching K24, not illustration.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/奥丁_本体三视图_v3.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K24_楚子航向上对视_v1.png"
+    ],
+    "source": "C:/Users/renxiaoxu/.codex/generated_images/01a124a7-ff81-7241-b335-d846c918462c/exec-ee69a7f1-07d5-4ce9-b1b6-44059b28fbba.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K25_奥丁向下对视_v1.png"
+  },
+  {
+    "id": "K26",
+    "time": "58-60",
+    "name": "楚子航视线回正",
+    "batch": "03_对视擦身",
+    "status": "已生成，待本批复核",
+    "mode": "内置imagegen",
+    "prompt": "Use case: ads-marketing. Generate ONE cinematic photoreal storyboard keyframe K26 at 58-60 seconds, landscape 16:9. Input image is the preceding K24 shot and is the strict continuity reference for Chu Zihang identity, clothing, car cabin, camera position, rain, and lighting. This is the next moment: Chu has finished looking up toward Odin and returns his head and eyes FORWARD toward the road through the windshield. Preserve exactly the same young East Asian man, black hair, white collared shirt, beige seatbelt, cream leather Maybach cabin, black window frame and side mirror. Camera remains outside driver side window looking inward, tight head and shoulders through rain-speckled glass. His face now reads as a natural three-quarter/profile aimed toward screen RIGHT, toward the vehicle's front and windshield, eyes level and focused ahead, chin lowered to normal driving position, calm resolute closed lips. No looking toward camera, no upward glance, no backward glance. His torso stays in driving position with white sleeves and hands extended toward steering wheel out of the lower-right crop. Keep same rain-covered closed window but make face clearly readable. The armored horse reflection has passed out of the glass; only soft bridge lights and steel structure reflections remain. Same cold blue rainy night on steel truss bridge, warm amber road lamps and subtle warm cabin highlights, wet black paint and chrome. Strong photographic realism, restrained depth of field. No Odin or horse visible in this tight shot, no added passenger, no extra face in reflections, no text, no watermark, no panels. This is a continuity frame of the existing sequence, not a new character design.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K24_楚子航向上对视_v1.png"
+    ],
+    "source": "C:/Users/renxiaoxu/.codex/generated_images/01a124a7-ff81-7241-b335-d846c918462c/exec-6d3a394c-12b5-4260-a30e-89bc0dc69f85.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+  },
+  {
+    "id": "K27",
+    "time": "60-64",
+    "name": "收紧缰绳",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Extreme close-up of Odin's LEFT armored gauntlet pulling two taut leather reins toward his waist. Clear articulated fingers gripping leather, horse neck and bridle edge on left, wet layered armor and saddle behind. Right hand holds upright spear outside crop. Reins stretched diagonally convey decisive pull initiating turn. Rain beads on metal and leather. No face needed, no car.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K25_奥丁向下对视_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-ab3c3eef-f22e-4e57-80d0-af9070ab80ba.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K27_收紧缰绳_v1.png"
+  },
+  {
+    "id": "K28",
+    "time": "60-64",
+    "name": "八足马转身",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Wide three-quarter action shot of Odin reining his eight-legged horse through a tight grounded U-turn on wet bridge. Horse head turned toward right, shoulders pivoting, hindquarters follow, eight legs stepping in staggered placements, no rearing. Odin balanced in saddle, upright spear in right hand, left pulls reins. Cape swings outward with rotation. Car already departed out of frame. Low spray around hooves, clear complete horse and rider silhouette.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9face726-916a-4286-b26c-ef94673021d8.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K28_八足马转身_v1.png"
+  },
+  {
+    "id": "K29",
+    "time": "64-70",
+    "name": "八足马追车",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Wide dynamic tracking side three-quarter view. Black Maybach in RIGHT foreground accelerating screen right, Odin on enormous eight-legged horse BEHIND at LEFT midground chasing in the SAME rightward direction. Car leads by several car lengths, no facing confrontation. Maintain reference dramatic horse-car size ratio. Eight hooves in anatomically plausible running sequence, low water spray, rider leans slightly forward, spear carried upward safely. Bridge recedes, strong readable pursuit composition.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-ece047f5-00b1-4023-80cb-66f325e6b22d.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K29_八足马追车_v1.png"
+  },
+  {
+    "id": "K30",
+    "time": "70-74",
+    "name": "镜中追兵",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Match image1 mirror composition exactly. Interior rearview mirror fills most frame. INSIDE mirror reflection beyond rear headrests and back glass, one Odin on giant horse approaches from behind along bridge center, seen from FRONT at believable distance, amber eye and silhouette clear; hooves partly occluded by bottom mirror edge. Outside mirror blurred forward windshield rain and lamps, no Odin outside reflection. Reflection is continuous physically credible rear road perspective. No driver face reflected.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I03_车内后视镜_母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘正面_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7756960d-9e48-40cc-babb-8ed81965d822.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K30_镜中追兵_v1.png"
+  },
+  {
+    "id": "K31",
+    "time": "74-76",
+    "name": "再次深踩油门",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Tight footwell close-up matched to reference. Chu's single RIGHT foot in plain black sneaker with black trouser hem pushes RIGHT narrow floor-hinged accelerator deeply toward firewall, heel grounded, sole contacts pedal, toe pointing upward/forward. Wide brake pedal on LEFT remains untouched, no left foot needed. Realistic foot anatomy, no double shoes. Warm footwell light, black carpet and beige trim. Show decisive greater pedal depression.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I02_油门与脚踏区_母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-e7d21b91-3968-4079-8348-edee12c60afe.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K31_再次深踩油门_v1.png"
+  },
+  {
+    "id": "K32",
+    "time": "76-80",
+    "name": "轮毂向后追逐",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low car-mounted camera near LEFT FRONT wheel looking BACK along black Maybach side toward pursuing Odin far behind. Large spinning silver multi-hole wheel dominates lower RIGHT foreground, wet black side body extends into image, road spray streaming backward. In left/center background one armored eight-legged horse with rider chases along same road toward camera, no approaching opposing traffic. Match reference wheel design, keep pursuit sharp enough to recognize, strong near-far depth.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_轮毂细节_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-aebd4d5a-1938-489a-97ab-bdea0f5ebe15.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K32_轮毂向后追逐_v1.png"
+  },
+  {
+    "id": "K33",
+    "time": "80-83",
+    "name": "追逐中蓄势投枪",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Medium dynamic three-quarter view of Odin upper body mounted galloping toward screen RIGHT. He draws his RIGHT arm BACK, elbow bent, holding single long spear above right shoulder almost horizontal, spearhead points forward to RIGHT, preparing overarm throw. Left hand controls reins. Clear athletic winding-up silhouette, cape streaming LEFT, rain and bridge behind, horse head lower right. No released projectile yet, no duplicated spear, car out of frame.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K25_奥丁向下对视_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-3c5d4250-262f-4fe9-bbcd-f886172e5193.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K33_追逐中蓄势投枪_v1.png"
+  },
+  {
+    "id": "K34",
+    "time": "80-83",
+    "name": "第二次投枪出手",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Medium-wide three-quarter view of Odin galloping toward RIGHT, at precise instant AFTER throwing. Right arm extends forward toward right, open hand with realistic fingers. ONE spear fully separated from hand by a visible short gap, flying toward right and slightly downward, point leading. Left hand holds reins. Horse head at lower right, cloak streams left, armor crisp, motion streaks only around rain. No second spear in hand, no beam or magic explosion.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘侧面_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K25_奥丁向下对视_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-b3481cc8-dc51-46b3-a1b6-b943b3124e68.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K34_第二次投枪出手_v1.png"
+  },
+  {
+    "id": "K35",
+    "time": "83-86",
+    "name": "向左紧急避让",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. High REAR three-quarter wide shot following black Maybach moving AWAY from camera toward bridge vanishing point. Clearly see car TAIL LIGHTS not headlights. Car steers to its OWN LEFT from right lane into center lane, front wheels left, modest yaw, all wheels grounded, wet curved spray trail. A single spear in air on RIGHT side of frame descends toward empty original right lane, still just above road. No rider or horse visible in this shot; they are behind camera. No impact yet. Maintain realistic long car body, wet bridge, dynamic but readable lane change.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-ad1bbc9a-379a-43aa-90ae-fc452bbabf79.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K35_向左紧急避让_v1.png"
+  },
+  {
+    "id": "K36",
+    "time": "83-86",
+    "name": "长枪击中原车道",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low dramatic wide frame: single ornate spear point embedded in wet asphalt in vacated RIGHT lane, shaft slants back upward, sharp splash and localized small broken asphalt at contact. Black Maybach has escaped to adjacent LEFT/CENTER lane and is further ahead, seen rear three-quarter receding, intact. Road lane separator clearly separates car from impact. No projectile through vehicle, no fireball. Odin distant background behind impact. One spear only. IMPORTANT: OMIT Odin and horse entirely, they are out of frame behind camera. Only car receding and single embedded spear are visible subjects.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁长枪_全长与细节设定_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-122d1bbb-62bf-49f0-a6cf-14a6a7210041.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K36_长枪击中原车道_v1.png"
+  },
+  {
+    "id": "K37",
+    "time": "86-88",
+    "name": "双手修正方向",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Tight interior close-up of original cream/walnut steering wheel from reference. Two realistic hands of young male driver with white shirt cuffs hold wheel near 9 and 3 o'clock, make small clockwise countersteering correction after left avoidance. Wheel only modestly turned, no crossed arms, no extra fingers. Through windshield bridge lane markings beginning to align, rain beads, amber instrument glow, dashboard unchanged. No driver face required.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I01_方向盘与仪表_母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-85eb96e6-bea3-44e5-b68f-f4ec33691ad2.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K37_双手修正方向_v1.png"
+  },
+  {
+    "id": "K38",
+    "time": "88-90",
+    "name": "车身回稳",
+    "batch": "04_追逐避枪",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low rear-left tracking shot of black Maybach now stabilized traveling straight away along center lane. Body aligned exactly with lane, wheels straight, red tail lamps, balanced suspension, long wheelbase intact. Twin restrained water wakes taper behind. Steel bridge vanishing point ahead in deep blue rain, amber lamps. No spear near vehicle and no collision. Horse behind camera out of shot. Focus on regained composure and solid planted luxury car.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左后_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7274e54a-dcb2-4a91-b87a-86d4a36d7b42.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K38_车身回稳_v1.png"
+  },
+  {
+    "id": "K39",
+    "time": "90-94",
+    "name": "雨刷第一扫亮雾",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. True driver POV through rain-covered windshield, cream/walnut lower dashboard and top steering rim at bottom. First wiper sweep midway diagonally across glass opens a curved clear band. Ahead only vague pale luminous fog at far end of steel bridge, exit boundary NOT yet clearly resolved. Heavy rain on unswept glass. Car remains centered driving forward. No visible driver face or horse ahead. Suspense and limited visibility.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/S06_驾驶员向前视角_母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S07_水幕内侧_场景母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7c32c0a9-2985-4773-b4b4-d5480cad8b5c.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K39_雨刷第一扫亮雾_v1.png"
+  },
+  {
+    "id": "K40",
+    "time": "90-94",
+    "name": "雨刷第二扫水幕",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same driver POV as first sweep. Second wiper sweep has cleared broad arc of windshield, blade near far edge. Now unmistakably reveal a vertical translucent wall of falling water spanning entire roadway at bridge exit, pale daylight road faintly visible beyond. Dark rainy bridge interior around it. Top steering rim and walnut dash unchanged, centered car trajectory. No portal ring, no glowing sci-fi vortex. Physical water curtain with vertical streaming texture.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/S06_驾驶员向前视角_母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S07_水幕内侧_场景母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-1abba41d-3416-4635-879c-903e23236219.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K40_雨刷第二扫水幕_v1.png"
+  },
+  {
+    "id": "K41",
+    "time": "94-100",
+    "name": "车头进入水幕",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Side three-quarter fixed wide shot, car moves LEFT to RIGHT across vertical water curtain at bridge exit. Black Maybach nose and front bumper JUST ENTER the curtain, most car still left in dark rainy bridge. Curtain plane crosses front bumper/headlights only. Right side beyond curtain is calmer pale dawn road. Vehicle entire silhouette remains intact, water splashes off hood, no morphing. No Odin visible.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S13_水幕侧向全景_场景母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左前_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-6e946e32-83eb-448d-a0bc-e69cfed1b7b1.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K41_车头进入水幕_v1.png"
+  },
+  {
+    "id": "K42",
+    "time": "94-100",
+    "name": "半车穿越水幕",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same fixed side three-quarter shot, LEFT to RIGHT. Black Maybach is HALFWAY through vertical water curtain, curtain plane intersects middle cabin near B pillar, front half on RIGHT emerges into calm dawn, rear half LEFT remains in dark rain. Full continuous intact car body, no split/disintegration. Water sheets off roof, wheels on same road level, front headlights refracted subtly. Exact transition phase clearly readable.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K41_车头进入水幕_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7cd990da-e7c7-46a0-b638-acb2b199f275.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K42_半车穿越水幕_v1.png"
+  },
+  {
+    "id": "K43",
+    "time": "94-100",
+    "name": "整车驶出水幕",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same side three-quarter wide composition, car moving LEFT to RIGHT. Entire Maybach including rear bumper has CLEARED water curtain, now fully on calm dawn side RIGHT, vertical curtain remains LEFT behind car separated by short gap. Water trails from rear body, droplets sparkle; intact long luxury silhouette and four wheels, front end toward right. Dark rainy bridge beyond curtain, brighter cool morning ahead. No Odin outside barrier.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K41_车头进入水幕_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-e1528c69-18aa-41e8-9fae-437ce57a90e0.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K43_整车驶出水幕_v1.png"
+  },
+  {
+    "id": "K44",
+    "time": "100-104",
+    "name": "奥丁水幕内止步",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Camera on calm outside road looking BACK through translucent water curtain into dark bridge. Odin on giant black eight-legged horse has stopped just INSIDE boundary. Horse front hooves planted, head raised against taut reins, rider looming but unable to cross. Odin EMPTY of spear because it was thrown earlier; both gauntlets on reins. Water wall separates viewer and rider, silhouette recognizable through flowing water. Car already gone behind camera. No rider beyond water, no new spear.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S08_水幕外侧回望_场景母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘正面_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-d5e2322a-0abd-4048-ace6-0d38a67680af.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K44_奥丁水幕内止步_v1.png"
+  },
+  {
+    "id": "K45",
+    "time": "104-108",
+    "name": "楚子航最后镜中回望",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Interior close-up of rearview mirror with physically correct rear-road reflection. Through rear glass reflected in mirror, distant bridge exit water curtain shrinks behind moving car, tiny shadow of stopped rider confined behind curtain. Include driver's focused eyes only at one small near edge of mirror if physically plausible, otherwise his blurred partial temple lower left foreground indicating glance. Soft early morning light enters cream cabin, rain diminished outside front glass. Main point final glance BACK, road receding, no horse beside car.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I03_车内后视镜_母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-f0f1fa96-f61b-4f1a-a62a-d62bbeac0c5d.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K45_楚子航最后镜中回望_v1.png"
+  },
+  {
+    "id": "K46",
+    "time": "104-108",
+    "name": "收回目光继续前行",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Same Chu Zihang identity and white shirt with beige seatbelt, cream Maybach cabin. Interior passenger-side medium close-up of driver in left seat, hands holding wheel naturally, eyes returned straight FORWARD to road after mirror glance. Calm subtle relieved breath, lips neutral no smile. Soft pale dawn light replaces blue storm, wet side window with few residual droplets, brighter quiet city road blurred outside. No Odin reflection, no other occupants. Natural photoreal young face.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/03_对视擦身/K26_楚子航视线回正_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-d9a3b109-8a49-46af-b55f-e15efdc603e2.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K46_收回目光继续前行_v1.png"
+  },
+  {
+    "id": "K47",
+    "time": "108-112",
+    "name": "驶入雨后城市",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Wide elevated rear three-quarter cinematic shot of single black Maybach driving away into B city after rain. Follow exact road and city layout of first reference, recognizable tall needle tower in distance. Wet asphalt reflects soft dawn sky, thin residual road mist, rain stopped. Car in one lane moving toward city vanishing point, restrained tail lights, dignified steady motion. Bridge and storm left behind, no fantasy figures, no traffic.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S09_驶入B城雨后道路_场景母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左后_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-c8be6319-bbfa-44bb-817b-f55c412b1957.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K47_驶入雨后城市_v1.png"
+  },
+  {
+    "id": "K48",
+    "time": "112-114",
+    "name": "晨光车标",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Extreme elegant macro close-up of classic Maybach DOUBLE-M triangular upright hood ornament on glossy wet black hood, exact emblem design from car reference, NOT Mercedes star. Tiny rain droplets on chrome and paint, first warm eastern sunlight glints at emblem edge, shallow depth of field background softly suggests city morning. No additional text or logo floating, no entire car needed. Premium restrained gold highlight, natural photograph.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_车头细节_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S10_东方晨光_场景母图_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-b90d67b9-c74a-4230-b68c-e3a38e7c8199.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K48_晨光车标_v1.png"
+  },
+  {
+    "id": "K49",
+    "time": "114-116",
+    "name": "驶出尼伯龙根片尾",
+    "batch": "05_穿幕收尾",
+    "status": "已生成，已逐张目检",
+    "mode": "内置imagegen",
+    "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Final wide cinematic closing background plate. Single black classic Maybach seen rear three-quarter, small in lower-right third, continues away along rain-wet open road toward dawn city and soft golden eastern light. Quiet expansive composition with generous clean sky/negative space in upper-left for title to be added later. No rendered title or text now. Cool storm clouds receding behind, warm horizon ahead, tasteful restrained luxury ad finish. No horse, no fantasy portal visible, no other cars.",
+    "refs": [
+      "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S10_东方晨光_场景母图_v1.png",
+      "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左后_v1.png"
+    ],
+    "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-20163c7b-e32c-4969-96b0-426c1e5af144.png",
+    "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K49_驶出尼伯龙根片尾_v1.png"
+  }
+]

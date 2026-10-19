@@ -1,0 +1,14 @@
+{
+  "id": "K15",
+  "time": "36-40",
+  "name": "俯身拔枪",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待本批复核",
+  "prompt": "Use case: ads-marketing. ONE final cinematic photoreal storyboard keyframe, landscape 16:9, no panels or contact sheet. Faithfully preserve subject identity and environment materials from references. Classic black first-generation Maybach 62 with long wheelbase, chrome vertical grille, paired oval lamps, cream interior, never modern Mercedes. When driver visible: only Chu Zihang from supplied reference, young East Asian man, black hair, white long-sleeved shirt, black trousers, black sneakers, seat belt, left-hand drive. Rainy shots cold blue-grey night and warm bridge lamps, grounded reflections and consistent light, realistic subtle motion cues, no excessive motion blur hiding structure. Exactly one car, one Odin when requested, no duplicate people or vehicles. Bridge three same-direction lanes with TWO white dashed separators and continuous edge guardrails. No added text, captions, labels, watermark or final titles; title will be typeset in editing. Match specific keyframe action, not a generic illustration. K15 36-40s mounted spear retrieval START. Reference1 continuity location and mounted design. Reframe into medium close oblique view from Odin's RIGHT side, showing rider waist, shoulder, right armored hand and long planted spear beside horse. Odin remains seated in saddle, leans torso naturally down and to his right, his RIGHT gauntlet now wraps around upper-middle shaft at reachable waist height. Spear blade points DOWN into wet asphalt and remains partly embedded, shaft straight tilted toward rider, not upward-facing weapon. Left hand holds reins, horse still stands calmly, saddle and rider boot/stirrup visible; do not dismount. Rainwater runs over armor and gauntlet, small wet road impact mark below, enough of horse to understand mounted action. Same single spear, no magic beam, no spare weapon. Action is beginning to PULL UP from ground.",
+  "refs": [
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K14_奥丁实体显现_v1.png",
+    "E:\\ai创意广告\\迈巴赫\\生成好的素材\\骑乘与长枪设定\\奥丁长枪_全长与细节设定_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a1236e-3040-7772-bfc6-c17a96e97258\\exec-d214527f-4276-4a3e-b0ba-c49424c5523d.png",
+  "path": "E:\\ai创意广告\\迈巴赫\\生成好的素材\\正式分镜关键帧\\02_奥丁登场\\K15_俯身拔枪_v1.png"
+}

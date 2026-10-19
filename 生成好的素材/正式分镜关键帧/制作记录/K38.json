@@ -1,0 +1,15 @@
+{
+  "id": "K38",
+  "time": "88-90",
+  "name": "车身回稳",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Low rear-left tracking shot of black Maybach now stabilized traveling straight away along center lane. Body aligned exactly with lane, wheels straight, red tail lamps, balanced suspension, long wheelbase intact. Twin restrained water wakes taper behind. Steel bridge vanishing point ahead in deep blue rain, amber lamps. No spear near vehicle and no collision. Horse behind camera out of shot. Focus on regained composure and solid planted luxury car.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左后_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/尺度验证/迈巴赫与骑乘奥丁_桥上同框尺度验证_选定版.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7274e54a-dcb2-4a91-b87a-86d4a36d7b42.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K38_车身回稳_v1.png"
+}

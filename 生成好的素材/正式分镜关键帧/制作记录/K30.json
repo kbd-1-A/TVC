@@ -1,0 +1,15 @@
+{
+  "id": "K30",
+  "time": "70-74",
+  "name": "镜中追兵",
+  "batch": "04_追逐避枪",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Match image1 mirror composition exactly. Interior rearview mirror fills most frame. INSIDE mirror reflection beyond rear headrests and back glass, one Odin on giant horse approaches from behind along bridge center, seen from FRONT at believable distance, amber eye and silhouette clear; hooves partly occluded by bottom mirror edge. Outside mirror blurred forward windshield rain and lamps, no Odin outside reflection. Reflection is continuous physically credible rear road perspective. No driver face reflected.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/驾驶舱母图/I03_车内后视镜_母图_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/骑乘与长枪设定/奥丁与八足马_骑乘正面_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-7756960d-9e48-40cc-babb-8ed81965d822.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/04_追逐避枪/K30_镜中追兵_v1.png"
+}

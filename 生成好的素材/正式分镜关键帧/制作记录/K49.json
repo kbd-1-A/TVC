@@ -1,0 +1,15 @@
+{
+  "id": "K49",
+  "time": "114-116",
+  "name": "驶出尼伯龙根片尾",
+  "batch": "05_穿幕收尾",
+  "status": "已生成，已逐张目检",
+  "mode": "内置imagegen",
+  "prompt": "ONE final cinematic photoreal advertising storyboard frame, landscape 16:9. Strictly preserve identities from references, never reproduce reference sheet panels. Black classic first-generation Maybach 62, long wheelbase, original grille and paired oval headlights, cream leather and walnut left-hand-drive cabin when shown. Odin black gunmetal pointed armor, twin tall helmet horns, silver hair, black ragged cloak, amber eye; massive black armored eight-legged horse with eight anatomically rooted legs, not extra random limbs. Cold blue rainy steel truss bridge and amber lamps until escape; road has three same-direction lanes with two dashed separators. No other traffic, no duplicate subjects, no added text, watermark or captions. Realistic materials, cinematic restrained motion blur with clear key action. Final wide cinematic closing background plate. Single black classic Maybach seen rear three-quarter, small in lower-right third, continues away along rain-wet open road toward dawn city and soft golden eastern light. Quiet expansive composition with generous clean sky/negative space in upper-left for title to be added later. No rendered title or text now. Cool storm clouds receding behind, warm horizon ahead, tasteful restrained luxury ad finish. No horse, no fantasy portal visible, no other cars.",
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/场景母图/S10_东方晨光_场景母图_v1.png",
+    "E:/ai创意广告/迈巴赫/生成好的素材/迈巴赫62/迈巴赫62_左后_v1.png"
+  ],
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-20163c7b-e32c-4969-96b0-426c1e5af144.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/05_穿幕收尾/K49_驶出尼伯龙根片尾_v1.png"
+}

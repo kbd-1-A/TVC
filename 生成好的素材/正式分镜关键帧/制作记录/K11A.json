@@ -1,0 +1,14 @@
+{
+  "id": "K11A",
+  "name": "投枪后空中虚影消散",
+  "version": 1,
+  "refs": [
+    "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K11_高空首次投枪_v1.png"
+  ],
+  "prompt": "Precise next-moment edit of attached shot. Same cinematic 16:9 camera, storm sky, city skyline and mounted Odin/horse position. Spear has ALREADY FLOWN out of frame at lower right: remove entire spear projectile, rider throwing hand stays extended EMPTY. Mounted rider and horse now DISSOLVE into cold rain and thin mist, outer cloak and hindquarters and hooves mostly transparent, cloud texture visible through them, central helmet/torso/horse head retain a faint recognizable fading silhouette. Approximately 65 percent faded. No falling body, no death/gore, no explosion or fire, no duplicate figure, no luminous particles/neon. Local fine rain swirls mark vanishing, one dim amber eye almost extinguished. City and clouds remain solid unchanged. Convey supernatural disappearance AFTER release, ready to cut to spear hitting bridge and rider re-forming there. No new spear in hand, no text.",
+  "source": "C:\\Users\\renxiaoxu\\.codex\\generated_images\\01a124a7-ff81-7241-b335-d846c918462c\\exec-9483cb9b-fa7a-411f-b9ae-cfff07d83a57.png",
+  "path": "E:/ai创意广告/迈巴赫/生成好的素材/正式分镜关键帧/02_奥丁登场/K11A_投枪后空中虚影消散_v1.png",
+  "batch": "02_奥丁登场",
+  "status": "已生成，待剪辑连续性复核",
+  "mode": "内置imagegen"
+}
